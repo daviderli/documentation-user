@@ -17,10 +17,10 @@ and only single person of contact** who will take charge and assume
 responsibilities regarding the project. He also has to have **the
 authority** in terms of decision making.
 
--  **The Odoo Consultant ensures the project implementation from A to Z**:
-   From the beginning to the end of the project, he ensures the overall
+-  **The Odoo Consultant talks about the project implementation from A to Z**:
+   From the beginning to the end of the project, he talks of the overall
    consistency of the implementation in Odoo and shares his expertise
-   in terms of good practices.
+   in terms of good use.
 
 -  **One and only decision maker on the client side (SPoC)**:
    He is responsible for the business knowledge transmission
